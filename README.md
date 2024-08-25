@@ -1,10 +1,18 @@
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/a9f3fe32-e400-4689-8e0e-b4862cbc0a41">#  Android PHA(Potentially Harmul Applications) Android Malware Simulation & Maskware App
 
 # Servers:
-Login Server: http://example-login-server.com
-Data Server: http://example-data-server.com
-SMS Server: http://example-sms-server.com
-Note: The servers mentioned here are placeholders. You can replace them with actual server URLs relevant to your setup.
+
+Login Server: https://dummyjson.com/users/auth/login 
+
+For login credentials: https://dummyjson.com/users
+
+Sending credentials data to Server: https://enlj46n3j0l2s.x.pipedream.net/ 
+
+For verifying the response we are getting https://public.requestbin.com/r/enlj46n3j0l2s 
+
+Can generate new endpoint at requestbin.com  https://public.requestbin.com/r
+
+Getting Contacts from Server for sending SMS: https://jsonplaceholder.typicode.com/users
 
 # Description:
 This project demonstrates various malware behaviors within a single Android application, serving as an educational tool for understanding and analyzing spyware activities. The app simulates several malicious actions commonly associated with Android malware, including:
@@ -99,15 +107,61 @@ These tools help in understanding how the app was built and identifying potentia
 
 
 # Screenshots:
-Login Screen: A screenshot showing the fake Instagram login page.
-<img width="269" alt="Picture1" src="https://github.com/user-attachments/assets/e07a3e01-8b1c-434c-b291-de82dbbfe3ed">
 
 
 Permissions Request: Screenshot showing the permission requests made at the app’s startup.
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/ce1d5213-66dc-421d-87ff-f6fb8f336152">
+
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/05736edb-f38f-4e0f-bef8-6ecea527d042">
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/8d75241e-807c-4817-9b66-078111dcbac9">
+
+Login Screen: A screenshot showing the fake Instagram login page.
+
+<img width="269" alt="Picture1" src="https://github.com/user-attachments/assets/e07a3e01-8b1c-434c-b291-de82dbbfe3ed">
+
+Login Succesful
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/598d2054-6f83-4172-a719-39236d84c7fa">
+
+After Signout 
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/a730f83a-93c2-42a4-90cd-bf5e117425ba">
+
+<img width="349" alt="image" src="https://github.com/user-attachments/assets/968be89e-71f2-444f-8b46-a5cca6284033">
+
 Network Switch: Image demonstrating the transition from Wi-Fi to mobile data.
+
+<img width="345" alt="image" src="https://github.com/user-attachments/assets/ac84cc45-0e3f-4b1c-8769-dbc4928a2d4c">
+
+<img width="328" alt="image" src="https://github.com/user-attachments/assets/bbe1c8fe-99d2-40ce-8ad9-916dbb210f8e">
+
+
 Phishing URL: A screenshot of the browser loading a phishing or malicious URL.
+
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/d9345bd9-bbc7-41e7-ac4b-f8a6b539d10a">
+
 Gift Claim Feature: Image showing the button for claiming a gift, leading to an APK download.
+
+<img width="340" alt="image" src="https://github.com/user-attachments/assets/311a8c1b-beb7-49f6-8b65-cf9d6e9b9ce7">
+
+
 Maskware in Action: A screenshot showing how the app pretends to be another application while loading a URL.
+
+<img width="311" alt="image" src="https://github.com/user-attachments/assets/4b25e681-567e-4d08-84f6-60cf3b03624b">
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/1e516fb8-9172-4f81-8e42-02e620e781ab">
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/abb279ea-cde4-41e0-9695-6adf310a709b">
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/d37f3ee4-44bd-4400-80f0-7c87a7aa21b3">
+
+<img width="354" alt="image" src="https://github.com/user-attachments/assets/4843321a-8d5a-4d4c-b848-f5892f51794a">
+
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/4790da66-fa2a-4c4c-9218-330c62396720">
+
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/8fa625e7-2d95-43d7-b961-3eab7cb0ddee">
 
 # Usage Note:
 
