@@ -161,7 +161,7 @@ Maskware in Action: A screenshot showing how the app pretends to be another appl
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/4790da66-fa2a-4c4c-9218-330c62396720">
 
-<img width="360" height="500" alt="image" src="https://github.com/user-attachments/assets/8fa625e7-2d95-43d7-b961-3eab7cb0ddee">
+<img width="360" height="650" alt="image" src="https://github.com/user-attachments/assets/8fa625e7-2d95-43d7-b961-3eab7cb0ddee">
 
 # Usage Note:
 
