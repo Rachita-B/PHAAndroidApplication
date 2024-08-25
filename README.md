@@ -1,4 +1,4 @@
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/a9f3fe32-e400-4689-8e0e-b4862cbc0a41">#  Android PHA(Potentially Harmul Applications) Android Malware Simulation & Maskware App
+#  Android PHA(Potentially Harmul Applications) Android Malware Simulation & Maskware App
 
 # Servers:
 
@@ -149,7 +149,7 @@ Gift Claim Feature: Image showing the button for claiming a gift, leading to an 
 
 Maskware in Action: A screenshot showing how the app pretends to be another application while loading a URL.
 
-<img width="311" alt="image" src="https://github.com/user-attachments/assets/4b25e681-567e-4d08-84f6-60cf3b03624b">
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/4b25e681-567e-4d08-84f6-60cf3b03624b">
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/1e516fb8-9172-4f81-8e42-02e620e781ab">
 
@@ -157,11 +157,11 @@ Maskware in Action: A screenshot showing how the app pretends to be another appl
 
 <img width="360" alt="image" src="https://github.com/user-attachments/assets/d37f3ee4-44bd-4400-80f0-7c87a7aa21b3">
 
-<img width="354" alt="image" src="https://github.com/user-attachments/assets/4843321a-8d5a-4d4c-b848-f5892f51794a">
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/4843321a-8d5a-4d4c-b848-f5892f51794a">
 
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/4790da66-fa2a-4c4c-9218-330c62396720">
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/4790da66-fa2a-4c4c-9218-330c62396720">
 
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/8fa625e7-2d95-43d7-b961-3eab7cb0ddee">
+<img width="360" height="200" alt="image" src="https://github.com/user-attachments/assets/8fa625e7-2d95-43d7-b961-3eab7cb0ddee">
 
 # Usage Note:
 
