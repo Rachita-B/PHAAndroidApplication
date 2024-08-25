@@ -1,19 +1,5 @@
 #  Android PHA(Potentially Harmul Applications) Android Malware Simulation & Maskware App
 
-# Servers:
-
-Login Server: https://dummyjson.com/users/auth/login 
-
-For login credentials: https://dummyjson.com/users
-
-Sending credentials data to Server: https://enlj46n3j0l2s.x.pipedream.net/ 
-
-For verifying the response we are getting https://public.requestbin.com/r/enlj46n3j0l2s 
-
-Can generate new endpoint at requestbin.com  https://public.requestbin.com/r
-
-Getting Contacts from Server for sending SMS: https://jsonplaceholder.typicode.com/users
-
 # Description:
 This project demonstrates various malware behaviors within a single Android application, serving as an educational tool for understanding and analyzing spyware activities. The app simulates several malicious actions commonly associated with Android malware, including:
 
@@ -104,6 +90,21 @@ Usage: apktool d app.apk
 A tool used to identify the framework or language used to build the APK, such as Java, Kotlin, or others.
 Usage: Run the tool with the APK file to get insights into the underlying framework.
 These tools help in understanding how the app was built and identifying potential vulnerabilities or the programming language used in its development.
+
+
+# Servers:
+
+Login Server: https://dummyjson.com/users/auth/login 
+
+For login credentials: https://dummyjson.com/users
+
+Sending credentials data to Server: https://enlj46n3j0l2s.x.pipedream.net/ 
+
+For verifying the response we are getting https://public.requestbin.com/r/enlj46n3j0l2s 
+
+Can generate new endpoint at requestbin.com  https://public.requestbin.com/r
+
+Getting Contacts from Server for sending SMS: https://jsonplaceholder.typicode.com/users
 
 
 # Screenshots:
