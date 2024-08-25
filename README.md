@@ -1,4 +1,4 @@
-#  Android PHA(Potentially Harmul Applications) Android Malware Simulation & Maskware App
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/a9f3fe32-e400-4689-8e0e-b4862cbc0a41">#  Android PHA(Potentially Harmul Applications) Android Malware Simulation & Maskware App
 
 # Servers:
 Login Server: http://example-login-server.com
@@ -100,6 +100,9 @@ These tools help in understanding how the app was built and identifying potentia
 
 # Screenshots:
 Login Screen: A screenshot showing the fake Instagram login page.
+<img width="269" alt="Picture1" src="https://github.com/user-attachments/assets/e07a3e01-8b1c-434c-b291-de82dbbfe3ed">
+
+
 Permissions Request: Screenshot showing the permission requests made at the app’s startup.
 Network Switch: Image demonstrating the transition from Wi-Fi to mobile data.
 Phishing URL: A screenshot of the browser loading a phishing or malicious URL.
