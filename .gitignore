@@ -1,0 +1,60 @@
+
+.gradle
+
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle files
+.gradle/
+
+# Exclude build directories except for APK files
+/build/
+!build/*.apk
+
+# Local configuration files
+/local.properties
+
+# IDE specific files
+/.idea/
+*.iml
+.DS_Store
+
+# Signing files
+*.jks
+
+# Personal configuration files (if any)
+*.iml
+
+# Android Studio specific
+/captures/
+/output.json
+/.cxx/
+
+# Exclude files created by lint
+lint/reports/
+
+# Log files
+*.log
+
+# Exclude generated files
+.idea/caches
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Ignore Android Studio project-specific files
+.idea
+
+# Node modules
+node_modules/

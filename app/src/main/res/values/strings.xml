@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AllPHAApplication</string>
+    <string name="forgot">CombinedApplication</string>
+    <string name="sign_up">CombinedApplication</string>
+</resources>
